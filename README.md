@@ -14,4 +14,4 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ## Projects
 ### Easymoeny Bank 
 ***
-### Predication-of-heart-disease 
+### [Predication-of-heart-disease](https://github.com/shadyazeem/Predication-of-heart-disease)
