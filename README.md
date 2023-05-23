@@ -12,6 +12,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 + BS.c of Science in Architecture ( Ain Shams Univeristy - Egypt)
 ***
 ## Projects
-### [Easymoeny-Bank)(https://github.com/shadyazeem/Easymoeny-Onlinebank-)
+### [Easymoeny-Bank](https://github.com/shadyazeem/Easymoeny-Onlinebank-)
 ***
 ### [Predication-of-heart-disease](https://github.com/shadyazeem/Predication-of-heart-disease)
